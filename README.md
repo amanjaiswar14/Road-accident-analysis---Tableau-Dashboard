@@ -64,7 +64,7 @@ This project showcases an **interactive Road Accident Dashboard** developed usin
 
 
 ## 📷 Dashboard Preview
-![image alt]()
+![image alt](https://github.com/amanjaiswar14/Road-accident-analysis---Tableau-Dashboard/blob/2ab6dc6a902258a51c2174322a848de6526436c4/Road%20Accident%20Analysis%20Image.png)
 
 --
 
